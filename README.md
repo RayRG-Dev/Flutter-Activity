@@ -1,4 +1,5 @@
-#App info
+## App info
+
 this is a flutter application to learn how to connect to an api
 
 ## Getting Started
